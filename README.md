@@ -9,7 +9,7 @@
 
 ### 🔥 About Me
 
-- 🎓 3nd Year B.Tech CSE (AIML) student at **SRM University, KTR**
+- 🎓 3rd Year B.Tech CSE (AIML) student at **SRM University, KTR**
 - 👨‍💻 Currently learning **React.js** and building full-stack projects
 - 📚 Practicing **Data Structures & Algorithms** in Java
 - 🎭 Love Acting & 🎸 playing Guitar – love to blend art with tech!
