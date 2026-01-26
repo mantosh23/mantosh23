@@ -25,7 +25,7 @@
 
 ---
 
-### 🎯 My Focus in 2025
+### 🎯 My Focus in 2026
 
 - 🔧 Master advanced React patterns and state management
 - 📦 Build production-level APIs with Express & MongoDB
