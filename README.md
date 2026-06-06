@@ -21,10 +21,10 @@
 ```
 Languages:              Python · Java · SQL · JavaScript (ES6+) · TypeScript · Swift
 AI, ML & NLP:           XGBoost · SHAP · TensorFlow · Keras · scikit-learn · BiGRU · RNN · RAG · LangChain · ChromaDB · Whisper
-Backend & Cloud:        FastAPI · Pydantic v2 · Node.js · Express.js · REST APIs · Webhooks · Supabase · AWS · Cloudflare CDN
+Backend & Cloud:        FastAPI · Pydantic v2 · Node.js · Express.js · REST APIs · Webhooks · Supabase · AWS
 Databases:              PostgreSQL · MongoDB · SQLite · ChromaDB (Vector DB)
 Mobile & Frontend:      SwiftUI · React.js · HTML5 · CSS3 · Tailwind CSS · Figma
-Tools & Methodologies:  Git · GitHub · Postman · Linux CLI · Jira · Agile Scrum · TestFlight · Render · unittest
+Tools & Methodologies:  Git · GitHub · Postman · Jira · Agile Scrum · TestFlight · Render · unittest
 ```
 
 ---
