@@ -16,17 +16,6 @@
 
 ---
 
-### 🚀 About Me
-
-- 👨‍💻 **Who I Am:** A final-year Computer Science & Engineering (AIML) student at **SRMIST** (9.12 CGPA), driven by a strong passion for software craftsmanship, system architecture, and applied intelligence.
-- 💡 **Engineering Philosophy:** I believe the best engineering is rooted in first-principles thinking — understanding the problem deeply before writing code, prioritizing clarity over cleverness, and building software that feels effortless for the end user.
-- 🔁 **Disciplined Execution:** A firm believer that *consistency beats intensity*. Whether it is practicing algorithmic problem solving, profiling code bottlenecks, or exploring emerging tools, deliberate daily practice is at the center of my growth.
-- 🤝 **Collaboration & Ownership:** I thrive in fast-paced collaborative environments. Having served as an Agile Lead and worked closely with designers, product managers, and backend engineers, I value empathetic communication, proactive ownership, and dependable teamwork.
-- 🎭 **Creative Outside of Tech:** Theatre acting, dramatic monologues (awarded 2nd Place across inter-university competitions at VIT Vellore & Chennai), and public speaking are my creative outlets. Stage performance has taught me presence, active listening, and the art of structured storytelling — skills I bring into every technical discussion and presentation.
-- 🎸 When away from my screen, you'll usually find me playing the guitar, exploring live music, or discussing design and philosophy.
-
----
-
 ### 🛠️ Tech Stack & Skills
 
 ```
