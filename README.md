@@ -40,17 +40,6 @@ Tools & Methodologies:  Git · GitHub · Postman · Linux CLI · Jira · Agile S
 
 ---
 
-### 📈 GitHub & Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mantosh23&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mantosh's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantosh23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 ### 📫 Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/mantosh23](https://linkedin.com/in/mantosh23)
